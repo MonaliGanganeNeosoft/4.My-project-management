@@ -1,0 +1,153 @@
+[{
+  "_id": {
+    "$oid": "61fcf4b3a242045f9ddd0e38"
+  },
+  "first_name": "teju",
+  "last_name": "moni",
+  "email": "moni.gangane@gmail.com",
+  "password": "12345",
+  "avatar": {
+    "public_id": "id1",
+    "url": "pro1"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1643967667358"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "61fcf838cb708eb1e2a6865a"
+  },
+  "first_name": "teju",
+  "last_name": "temp4",
+  "email": "temp4.gangane@gmail.com",
+  "password": "$2a$10$M.BtKuf6QshJ283Ch6wxf.zy2unCTgzGK19oHqlR/IHyjbRwFe7CG",
+  "avatar": {
+    "public_id": "id1",
+    "url": "pro1"
+  },
+  "role": "admin",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1643968568528"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62076a4d36d0de2e8c9501ae"
+  },
+  "first_name": "Monali",
+  "last_name": "Gangane",
+  "email": "abc@gmail.com",
+  "password": "$2a$10$d3g3QI7ZWeJF/x0A83f5uO58b02S.Y7ncWIm8H.mqZ6.A0YY5ZbMi",
+  "avatar": {
+    "public_id": "avatars/rxx2cfe7ff7yz6dtgyra",
+    "url": "https://res.cloudinary.com/drjlacryj/image/upload/v1644653137/avatars/rxx2cfe7ff7yz6dtgyra.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1644653134007"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620b697eabc9091fe650832e"
+  },
+  "first_name": "Apurav",
+  "last_name": "Khurud",
+  "email": "Apurva@gmail.com",
+  "password": "$2a$10$mjJx1QGTiKdPfwacjgZViOTniaB.pODrX9el43crbE/VzwSnE1t6O",
+  "avatar": {
+    "public_id": "avatars/ebvozpcxcqayba9kfrpl",
+    "url": "https://res.cloudinary.com/drjlacryj/image/upload/v1644915071/avatars/ebvozpcxcqayba9kfrpl.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1644915070422"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "620ce73c09c99a80fdc7a831"
+  },
+  "first_name": "Priyanka",
+  "last_name": "Gangane",
+  "email": "piyu@gmail.com",
+  "password": "$2a$10$qzXlCOo0HRnW0kc1PClNuudM22Mh5o5jqdXT3qZhnjHYIgvEGBeTe",
+  "avatar": {
+    "public_id": "avatars/u8mq0gkqjuamitvwiqrl",
+    "url": "https://res.cloudinary.com/drjlacryj/image/upload/v1645012795/avatars/u8mq0gkqjuamitvwiqrl.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1645012796186"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6220888fa0fa130225cf9af7"
+  },
+  "first_name": "moni",
+  "last_name": "Gangane",
+  "email": "xyz@gmail.com",
+  "password": "$2a$10$zkaxvE/2jMh2rnKyfGbIWOxRefPfguiKXzlxhMV8kMKdy4YslNbbW",
+  "avatar": {
+    "public_id": "avatars/b702g0hejmbogsmbtcrl",
+    "url": "https://res.cloudinary.com/drjlacryj/image/upload/v1646299279/avatars/b702g0hejmbogsmbtcrl.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1646299279696"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62667186ade5db13f26cd3a9"
+  },
+  "first_name": "Monali",
+  "last_name": "Gangane",
+  "email": "piyu1@gmail.com",
+  "password": "$2a$10$93foT6Har0mUqUnVFxBYoOzi6wb0hMiZoceYwnX3TkAVjGc1C6zmy",
+  "avatar": {
+    "public_id": "avatars/dyedch9fbuyg7bhftrek",
+    "url": "https://res.cloudinary.com/drjlacryj/image/upload/v1650880901/avatars/dyedch9fbuyg7bhftrek.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1650880902293"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "628f46c7001879cb37d6ab73"
+  },
+  "first_name": "Monali",
+  "last_name": "Gangane",
+  "email": "monali.gangane@gmail.com",
+  "password": "$2a$10$zSSYoiSm5ewyllEvn3IREeDgPf540RDEGSiJAoIqVHvbFosQAhuxi",
+  "avatar": {
+    "public_id": "avatars/urndvm7w0dinlw7dmupq",
+    "url": "https://res.cloudinary.com/drjlacryj/image/upload/v1653556934/avatars/urndvm7w0dinlw7dmupq.jpg"
+  },
+  "role": "user",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1653556935367"
+    }
+  },
+  "__v": 0
+}]
